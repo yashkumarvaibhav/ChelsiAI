@@ -6,7 +6,7 @@ with open("README.md", "r", encoding='utf-8') as fh:
 
 setuptools.setup(
     name="ChelsiAI",
-    version="0.1",
+    version="1.8",
     author="Yash Kumar Vaibhav & Team",
     author_email="chelsiai2022@gmail.com",
     description="ChelsiAI is python library to build your own AI virtual assistant with natural language processing.",
