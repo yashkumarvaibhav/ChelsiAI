@@ -1,3 +1,24 @@
+Metadata-Version: 2.1
+Name: JarvisAI
+Version: 0.1
+Summary: ChelsiAI is python library to build your own AI virtual assistant with natural language processing.
+Home-page: <"githublink">
+Author: Yash Kumar Vaibhav & Team
+Author-email: chelsiai2022@gmail.com
+License: UNKNOWN
+Project-URL: Official Website, https://yashkumarvaibhav.github.io/mysite
+Project-URL: Documentation, "github-link"
+Project-URL: Donate, https://www.buymeacoffee.com/
+Project-URL: Say Thanks!, https://www.youtube.com/@yashvaibhav9546
+Project-URL: Source, "github-link"
+Platform: UNKNOWN
+Classifier: Programming Language :: Python :: 3
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Operating System :: OS Independent
+Requires-Python: >=3.6
+Description-Content-Type: text/markdown
+License-File: License.txt
+
 [![Header](https://i.postimg.cc/1XrrC9N4/Screenshot-from-2022-12-16-17-25-25.png "Header")](yashkumarvaibhav.github.io/mysite)  
   
   
@@ -236,3 +257,4 @@ READ MORE: Google Speech API (Pricing and Key) at: https://cloud.google.com/spee
 ## License  
   
 [MIT](https://choosealicense.com/licenses/mit/)
+
