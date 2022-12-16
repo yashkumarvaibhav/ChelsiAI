@@ -25,11 +25,7 @@ Click on the image below to watch the tutorial on YouTube-
 
 **Tutorial 1-**
 
-[![ChelsiAI Tutorial 1](https://img.youtube.com/vi/p2hdqB11S-8/0.jpg)](https://www.youtube.com/watch?v=p2hdqB11S-8)
-
-**Tutorial 2-**
-
-[![ChelsiAI Tutorial 2](https://img.youtube.com/vi/6p8bhNGtVbA/0.jpg)](https://www.youtube.com/watch?v=6p8bhNGtVbA)
+[![ChelsiAI Tutorial 1](https://i.postimg.cc/W1kkPzJd/Screenshot-from-2022-12-16-19-53-40.png)](https://www.youtube.com/@yashvaibhav95467)
 
 
   
