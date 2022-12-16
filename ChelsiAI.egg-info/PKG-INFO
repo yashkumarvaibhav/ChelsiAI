@@ -1,23 +1,21 @@
 Metadata-Version: 2.1
-Name: JarvisAI
-Version: 0.1
+Name: ChelsiAI
+Version: 1.8
 Summary: ChelsiAI is python library to build your own AI virtual assistant with natural language processing.
-Home-page: <"githublink">
+Home-page: https://yashkumarvaibhav.github.io/mysite
 Author: Yash Kumar Vaibhav & Team
 Author-email: chelsiai2022@gmail.com
 License: UNKNOWN
-Project-URL: Official Website, https://yashkumarvaibhav.github.io/mysite
-Project-URL: Documentation, "github-link"
+Project-URL: Documentation, https://github.com/
 Project-URL: Donate, https://www.buymeacoffee.com/
-Project-URL: Say Thanks!, https://www.youtube.com/@yashvaibhav9546
-Project-URL: Source, "github-link"
+Project-URL: Say Thanks!, https://youtube.com/@yashvaibhav9546
+Project-URL: Source, https://github.com/
 Platform: UNKNOWN
 Classifier: Programming Language :: Python :: 3
 Classifier: License :: OSI Approved :: MIT License
 Classifier: Operating System :: OS Independent
 Requires-Python: >=3.6
 Description-Content-Type: text/markdown
-License-File: License.txt
 
 [![Header](https://i.postimg.cc/1XrrC9N4/Screenshot-from-2022-12-16-17-25-25.png "Header")](yashkumarvaibhav.github.io/mysite)  
   
@@ -46,11 +44,7 @@ Click on the image below to watch the tutorial on YouTube-
 
 **Tutorial 1-**
 
-[![ChelsiAI Tutorial 1](https://img.youtube.com/vi/p2hdqB11S-8/0.jpg)](https://www.youtube.com/watch?v=p2hdqB11S-8)
-
-**Tutorial 2-**
-
-[![ChelsiAI Tutorial 2](https://img.youtube.com/vi/6p8bhNGtVbA/0.jpg)](https://www.youtube.com/watch?v=6p8bhNGtVbA)
+[![ChelsiAI Tutorial 1](https://i.postimg.cc/W1kkPzJd/Screenshot-from-2022-12-16-19-53-40.png)](https://www.youtube.com/@yashvaibhav95467)
 
 
   
