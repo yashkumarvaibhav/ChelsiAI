@@ -142,10 +142,9 @@ READ MORE: Google Speech API (Pricing and Key) at: https://cloud.google.com/spee
   
 1. Currently, it supports only english language  
 2. Supports voice and text input/output.  
-3. Supports AI based voice input and by using google api voice input.  
-4. All intellectual task is process in ChelsiAI server so there is no load on your system.  
-5. Lightweight and able to understand natural language (commands)  
-6. Ability to add your own custom functions.  
+3. Supports AI based voice input and by using google api voice input.   
+4. Lightweight and able to understand natural language (commands)  
+5. Ability to add your own custom functions.  
   
 ### 4.1. Supported Commands-  
   
